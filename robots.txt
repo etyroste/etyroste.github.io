@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etyroste.github.io/sitemap.html
+Sitemap: https://etyroste.github.io/app/sitemap.html
+Sitemap: https://etyroste.github.io/assets/sitemap.html
+Sitemap: https://etyroste.github.io/includes/sitemap.html
+Sitemap: https://etyroste.github.io/src/sitemap.html
